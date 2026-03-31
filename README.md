@@ -1,6 +1,6 @@
 # 🧠 Smart Workplace Assistant
 
-**A production-grade AI workflow suite built with LangChain, Google Gemini, and Streamlit.**
+**A production-grade AI workflow suite built with LangChain, Google Gemini and Streamlit.**
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://python.org)
 [![LangChain](https://img.shields.io/badge/LangChain-LCEL-green?logo=chainlink)](https://langchain.com)
