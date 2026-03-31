@@ -14,6 +14,7 @@
 The **Smart Workplace Assistant** is a modular, extensible AI system that automates six core workplace workflows using **LangChain LCEL chains** and **Google Gemini** — without relying on `HumanMessage`.
 
 It is built for real-world business scenarios: classifying support tickets, extracting structured data, analyzing employee sentiment, rewriting emails, generating JSON from text, and chaining multiple AI steps together.
+Try it out here! https://workpilot-ai-8k67ayv29reeskuevwkxhr.streamlit.app/
 
 ---
 
