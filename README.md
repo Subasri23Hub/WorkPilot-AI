@@ -7,8 +7,8 @@
 [![Gemini](https://img.shields.io/badge/Google-Gemini%202.5-orange?logo=google)](https://aistudio.google.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?logo=streamlit)](https://streamlit.io)
 
+Try it out: https://workpilot-ai-8k67ayv29reeskuevwkxhr.streamlit.app/
 ---
-
 ## 📌 Overview
 
 The **Smart Workplace Assistant** is a modular, extensible AI system that automates six core workplace workflows using **LangChain LCEL chains** and **Google Gemini** — without relying on `HumanMessage`.
